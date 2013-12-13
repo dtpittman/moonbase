@@ -1,3 +1,0 @@
-git add . OR git add -A
-git commit -m "message"
-git push
