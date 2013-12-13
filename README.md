@@ -1,8 +1,2 @@
 moonbase
 ========
-
-/ / / !!! / / / 
-zzzzzzzzzzzzzzzz
-hot peppers
-/ / / +++ / / /
-
